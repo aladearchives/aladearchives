@@ -17,4 +17,4 @@ Senior frontend engineer. I build storefronts and brand sites in React, TypeScri
 
 ## Find me
 
-[aladearchives.me](https://aladearchives.me) · [LinkedIn](https://www.linkedin.com/in/tosin-alade) · aladetosinalade@gmail.com
+[LinkedIn](https://www.linkedin.com/in/tosin-alade) · aladetosinalade@gmail.com
