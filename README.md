@@ -4,15 +4,15 @@ Senior frontend engineer. I build storefronts and brand sites in React, TypeScri
 
 ## Selected work
 
-- **The Wellness House** · [ladeo.vercel.app](https://ladeo.vercel.app)
+- **The Wellness House** · [ladeo.vercel.app](https://ladeo.vercel.app)  
   Gym and spa brand site rebuilt from legacy PHP and jQuery into Next.js 16, React 19 and Tailwind CSS v4, with a new design system. Motion audited twice with reduced-motion and slow-connection fallbacks. Supabase schema with row-level security, tested in CI.
-- **E Dey Happen** · [edhseries.com](https://www.edhseries.com)
+- **E Dey Happen** · [edhseries.com](https://www.edhseries.com)  
   Site for a Nigerian animated series. Refactored so every route is a server component reading through one content layer, ready for Sanity. GSAP and Motion animation kept intact, Playwright smoke tests in CI.
-- **Kris Goyri** · [krisgoyri.com](https://krisgoyri.com)
+- **Kris Goyri** · [krisgoyri.com](https://krisgoyri.com)  
   Shopify storefront for a fashion and bridal label, built from Figma designs: custom sections and components including the bridal collection, mega menu, showroom and appointment pages, in Spanish and English across markets.
-- **Ginger Elizabeth Chocolates** · [gingerelizabeth.com](https://gingerelizabeth.com)
+- **Ginger Elizabeth Chocolates** · [gingerelizabeth.com](https://gingerelizabeth.com)  
   Shopify e-commerce site built from Figma designs, with custom components throughout.
-- **Shopify Plus replatform at DEPT®** (client under NDA)
+- **Shopify Plus replatform at DEPT®** (client under NDA)  
   Lead developer moving a members-only beauty brand from CommerceTools to Shopify Plus: product, cart and member-pricing surfaces, the promotions and member-pricing Shopify Functions, and a migration of 76,000+ customer records.
 
 ## Find me
