@@ -11,7 +11,7 @@ Senior frontend engineer. I build storefronts and brand sites in React, TypeScri
 - **Kris Goyri** · [krisgoyri.com](https://krisgoyri.com)  
   Shopify storefront for a fashion and bridal label, built from Figma designs: custom sections and components including the bridal collection, mega menu, showroom and appointment pages, in Spanish and English across markets.
 - **Ginger Elizabeth Chocolates** · [gingerelizabeth.com](https://gingerelizabeth.com)  
-  Shopify storefront for a chocolatier, built from Figma designs in about a month (2024). Cart with a delivery-date picker that blocks same-day, next-day and closed days, store pickup and delivery options with checkout held until the slots load, a gift-note add-on with validation, tag-based collection filtering and a corporate gifting page.
+  Shopify storefront for a chocolatier, rebuilt on an existing theme from Figma designs in about a month (2024): stripped the theme back and built the Figma components as custom sections. Cart with delivery and store-pickup options, a date picker and a gift note, plus a corporate gifting page.
 - **Shopify Plus replatform at DEPT®** (client under NDA)  
   Lead developer moving a members-only beauty brand from CommerceTools to Shopify Plus: product, cart and member-pricing surfaces, the promotions and member-pricing Shopify Functions, and a migration of 76,000+ customer records.
 
